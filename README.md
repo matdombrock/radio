@@ -1,13 +1,13 @@
 
 # RADIO INFORMATION
 
-## [BaoFeng Usage](#BaoFeng)
-## [Family Radio Service (FRS) (WALKIE TALKIES)](#FRS)
-## [Multi-Use Radio Service (MURS)](#MURS)
-## [General Mobile Radio Service (GMRS)](#GMRS)
-## [NOAA (Weather)](#NOAA)
-## [Police, Fire, EMS](#PS)
-## [Police Codes](#Police_Codes)
+[BaoFeng Usage](#baofeng-usage)
+[Family Radio Service (FRS) (WALKIE TALKIES)](#family-radio-service-frs)
+[Multi-Use Radio Service (MURS)](#multi-use-radio-service-murs)
+[General Mobile Radio Service (GMRS)](#general-mobile-radio-service-gmrs)
+[NOAA (Weather)](#noaa-weather-broadcast-frequencies)
+[Police, Fire, EMS](#police-fire-ems)
+[Police Codes](#police-codes)
 
 # BaoFeng Usage
 (Source: [http://www.bugoutbagbuilder.com/learning-tutorials/baofeng-uv-5r-basic-setup-emergency-frequencies](http://www.bugoutbagbuilder.com/learning-tutorials/baofeng-uv-5r-basic-setup-emergency-frequencies))
@@ -244,7 +244,7 @@ Some repeaters use different tonal frequency systems that are not CTCS or DCS, o
 
 Now, in Channel mode, you can select the repeater channel and transmit on the repeater in question.
 
-# Family Radio Service (FRS):
+# Family Radio Service (FRS)
 
 ## About
 (Source: [https://www.fcc.gov/wireless/bureau-divisions/mobility-division/family-radio-service-frs](https://www.fcc.gov/wireless/bureau-divisions/mobility-division/family-radio-service-frs))
@@ -399,7 +399,7 @@ There are 30 GMRS channels with a bandwidth of 25 kHz (20 KHz authorized bandwid
 |467.7250 MHz|N/A        |N/A      |N/A          |50 W      |20 kHz        |
 
 
-# NOAA Weather Broadcast Frequencies:
+# NOAA Weather Broadcast Frequencies
 (Source: [https://en.wikipedia.org/wiki/NOAA_Weather_Radio](https://en.wikipedia.org/wiki/NOAA_Weather_Radio))
 **NOAA Weather Radio** (**NWR**; also known as **NOAA Weather Radio All Hazards**) is an automated 24-hour network of [VHF](https://en.wikipedia.org/wiki/Very_high_frequency "Very high frequency")  [FM](https://en.wikipedia.org/wiki/Frequency_modulation "Frequency modulation")  [weather radio](https://en.wikipedia.org/wiki/Weather_radio "Weather radio") stations in the [United States](https://en.wikipedia.org/wiki/United_States "United States") (U.S.) that broadcast weather information directly from a nearby [National Weather Service](https://en.wikipedia.org/wiki/National_Weather_Service "National Weather Service") office. The routine programming cycle includes local or regional weather forecasts, synopsis, climate summaries, synopsis or zone/lake/coastal waters forecasts (when applicable). During severe conditions the cycle is shortened into: hazardous weather outlooks, short-term forecasts, special weather statements or tropical weather summaries (the first two aren't normally broadcast in most offices).
 ```
