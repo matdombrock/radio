@@ -423,6 +423,7 @@ There are 30 GMRS channels with a bandwidth of 25 kHz (20 KHz authorized bandwid
 
 # Police, Fire, EMS
 ## Bellingham:
+```
 Whatcom Fire - 453.28750 (173.8 PL)
 Police Dispatch - 453.22500 (91.5 PL)
 Police Special Operations - 453.38750
@@ -432,7 +433,7 @@ Police Tactical Home Base - 154.02500
 Police Tactical KOB - 155.07000 
 Public Works - 453.75000
 Whatcom Regional Transit Authority - 453.42500
-
+```
 ## Whatcom:
 Sheriff Dispatch - 453.32500 
 Sheriff East County - 453.67500 
@@ -456,9 +457,9 @@ V-Fire Ch 5 - 159.79500
 Fire - 453.18750
 Fire - 453.58750
 Fire + Vehicle Repeaters - 460.52500
+```
+
 # Police Codes
-
-
 ## 10-CODES
 
 |Was (Ten-Code)                                                 |Now (Procedure Word)                                           |
