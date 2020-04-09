@@ -281,6 +281,7 @@ Specifically, if you have a radio that was sold as a dual-service FRS/GMRS radio
 There are 22 FRS channels. Each channel has a bandwidth of 12.5 kHz, but the power of each channel may vary as indicated below. All channels are shared with GMRS, so you may hear communications from licensed GMRS stations on these channels.
 
 (Source: [https://en.wikipedia.org/wiki/General_Mobile_Radio_Service](https://en.wikipedia.org/wiki/General_Mobile_Radio_Service))
+
 |Channel     |Frequency (MHz)|FRS EIRP Restriction|GMRS EIRP Restriction|
 |------------|---------------|--------------------|---------------------|
 |1           |462.5625       |Up to 2 watt        |Up to 5 watts        |
