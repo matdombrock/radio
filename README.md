@@ -332,6 +332,7 @@ The usual range of communications between MURS stations is less than a few miles
 
 ## Channels
 (Source: [https://en.wikipedia.org/wiki/Multi-Use_Radio_Service](https://en.wikipedia.org/wiki/Multi-Use_Radio_Service))
+
 |Channel     |Frequency|Maximumauthorized bandwidth|Channel name|
 |------------|---------|---------------------------|------------|
 |1           |151.82 MHz|11.25 kHz                  |MURS 1      |
@@ -372,6 +373,7 @@ The usual range of communications between MURS stations is less than a few miles
 ## Channels
 There are 30 GMRS channels with a bandwidth of 25 kHz (20 KHz authorized bandwidth) or 12.5 kHz as outlined below:
 (Source: [https://en.wikipedia.org/wiki/General_Mobile_Radio_Service](https://en.wikipedia.org/wiki/General_Mobile_Radio_Service))
+
 |Frequency   |FRS Channel|FRS Power|FRS Bandwidth|GMRS Power|GMRS Bandwidth|
 |------------|-----------|---------|-------------|----------|--------------|
 |462.5625 MHz|1          |2 W      |12.5 kHz     |5 W       |20 kHz        |
@@ -458,6 +460,7 @@ Fire + Vehicle Repeaters - 460.52500
 
 
 ## 10-CODES
+
 |Was (Ten-Code)                                                 |Now (Procedure Word)                                           |
 |---------------------------------------------------------------|---------------------------------------------------------------|
 |10-0                                                           |Use Caution                                                    |
