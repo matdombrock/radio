@@ -435,6 +435,7 @@ Public Works - 453.75000
 Whatcom Regional Transit Authority - 453.42500
 ```
 ## Whatcom:
+```
 Sheriff Dispatch - 453.32500 
 Sheriff East County - 453.67500 
 Sheriff Rural Area - 155.61000
