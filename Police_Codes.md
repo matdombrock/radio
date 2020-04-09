@@ -1,5 +1,6 @@
 POLICE CODES
 
+```
 10-7A Out of service at home.
 10-7B Out of service - personal.
 10-7od Out of service - off duty
@@ -105,7 +106,7 @@ POLICE CODES
 10-99 Open police garage door.
 10-100 Civil disturbance - Mutual aid standby.
 10-101 Civil disturbance - Mutual aid request.
-
+```
 
 11-00 Codes
 11-10 Take a report.
@@ -348,3 +349,4 @@ MISCELLANEOUS HEALTH AND SAFETY CODES
 11368 Forged prescription
 11550 Under influence of a controlled substance
 12677 Fireworks
+```
