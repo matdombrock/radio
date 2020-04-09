@@ -1,5 +1,6 @@
-POLICE CODES
+# POLICE CODES
 
+**CTRL+F TO SEARCH**
 ```
 10-7A Out of service at home.
 10-7B Out of service - personal.
