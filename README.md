@@ -2,11 +2,17 @@
 # RADIO INFORMATION
 
 [BaoFeng Usage](#baofeng-usage)
+
 [Family Radio Service (FRS) (WALKIE TALKIES)](#family-radio-service-frs)
+
 [Multi-Use Radio Service (MURS)](#multi-use-radio-service-murs)
+
 [General Mobile Radio Service (GMRS)](#general-mobile-radio-service-gmrs)
+
 [NOAA (Weather)](#noaa-weather-broadcast-frequencies)
+
 [Police, Fire, EMS](#police-fire-ems)
+
 [Police Codes](#police-codes)
 
 # BaoFeng Usage
