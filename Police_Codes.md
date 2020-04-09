@@ -106,7 +106,6 @@ POLICE CODES
 10-99 Open police garage door.
 10-100 Civil disturbance - Mutual aid standby.
 10-101 Civil disturbance - Mutual aid request.
-```
 
 11-00 Codes
 11-10 Take a report.
