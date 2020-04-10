@@ -1,4 +1,6 @@
-[Download PDF](https://github.com/matdombrock/radio/raw/master/RADIO%20INFORMATION%20_%20radio.pdf) (May not be up to date)
+[Download This Document As A PDF](https://github.com/matdombrock/radio/raw/master/RADIO%20INFORMATION%20_%20radio.pdf) (May not be up to date)
+
+[Download The Full Open Source User Manual](https://github.com/matdombrock/radio/raw/master/UV-5R-Owners-Manual-2.pdf) (Not created by me)
 # RADIO INFORMATION
 
 [BaoFeng Usage](#baofeng-usage)
