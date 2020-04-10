@@ -1,4 +1,4 @@
-
+[Download PDF](https://github.com/matdombrock/radio/raw/master/RADIO%20INFORMATION%20_%20radio.pdf) (May not be up to date)
 # RADIO INFORMATION
 
 [BaoFeng Usage](#baofeng-usage)
