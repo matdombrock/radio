@@ -4,7 +4,7 @@
 
 [Download The Full Frequency List](https://raw.githubusercontent.com/matdombrock/radio/master/baofeng-freqs.csv) (CSV)
 
-*DISCLAIMER: A lot of the text here has been blatantly copied from other sources with only minor changes and commentary. This document was created for my personal use (but you are free to use it to) as a compilation of available resources and documentation. I've tried my best to list my sources inline as well as at the end of the document.*
+*DISCLAIMER: A lot of the text here has been blatantly copied from other sources with only minor changes and commentary. This document was created for my personal use (but you are free to use it too) as a compilation of available resources and documentation. I've tried my best to list my sources inline as well as at the end of the document.*
 
 **WARNING: I take absolutley no legal responsibility for what you do with the information listed below. It is YOUR responsibility to make sure you know the laws and etiquette involved in proper radio usage. The BaoFeng UV-5R is fully capable of transmitting fairly powerful signals on frequencies you ARE NOT allowed to operate on. Make sure you know what you're doing, especially before you transmit anything!** 
 
