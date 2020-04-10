@@ -17,7 +17,9 @@
 
 # BaoFeng Usage
 (Source: [http://www.bugoutbagbuilder.com/learning-tutorials/baofeng-uv-5r-basic-setup-emergency-frequencies](http://www.bugoutbagbuilder.com/learning-tutorials/baofeng-uv-5r-basic-setup-emergency-frequencies))
+
 **BaoFeng UV-5R Dual Band Two Way Radio**
+
 Range: VHF (136-174), UHF (400-520)
 
 ## Commands, Keys & Buttons
